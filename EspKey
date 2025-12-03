@@ -1,6 +1,6 @@
 --// CONFIG
-local CorrectKey = "54321"  -- change this
-local KeyLink = "https://work.ink/29bt/key-for-tat"
+local CorrectKey = "esp"  -- change this
+local KeyLink = "https://link-center.net/1104136/7CXcQVoLYaLc"
 
 --// SERVICES
 local Players = game:GetService("Players")
