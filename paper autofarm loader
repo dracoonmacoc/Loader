@@ -1,6 +1,6 @@
 --// CONFIG
-local CorrectKey = "new"  -- change this
-local KeyLink = "https://work.ink/29bt/key-for-paper-autofarm"
+local CorrectKey = "work"  -- change this
+local KeyLink = "https://link-target.net/1104136/CzoYylsJ7CL0"
 
 --// SERVICES
 local Players = game:GetService("Players")
