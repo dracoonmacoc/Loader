@@ -1,5 +1,5 @@
 --// CONFIG
-local CorrectKey = "work"  -- change this
+local CorrectKey = "8888"  -- change this
 local KeyLink = "https://link-target.net/1104136/CzoYylsJ7CL0"
 
 --// SERVICES
