@@ -1,5 +1,5 @@
 --// CONFIG
-local CorrectKey = "555"
+local CorrectKey = "earth"
 local KeyLink = "https://link-target.net/1104136/CzoYylsJ7CL0"
 local DiscordLink = "https://discord.gg/uqkvDaX3kH"
 
